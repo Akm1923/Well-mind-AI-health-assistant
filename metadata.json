@@ -1,0 +1,5 @@
+{
+  "name": "Well Mind AI - Health Assistant",
+  "description": "An advanced medical AI assistant capable of analyzing medical images, visualizing patient health data, and providing personalized wellness plans powered by Gemini 2.5.",
+  "requestFramePermissions": []
+}
