@@ -8,6 +8,8 @@
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+## Visit the app
+link: https://well-mind-ai-health-assistant-md38.vercel.app/
 
 ## Screenshots
 
