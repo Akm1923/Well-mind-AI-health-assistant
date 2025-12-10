@@ -9,7 +9,7 @@
 3. Run the app:
    `npm run dev`
 ## Visit the app
-link: https://well-mind-ai-health-assistant-md38.vercel.app/
+link: [ https://well-mind-ai-health-assistant-md38.vercel.app/](https://well-mind-ai-health-assistant-sl22.vercel.app/)
 
 ## Screenshots
 
